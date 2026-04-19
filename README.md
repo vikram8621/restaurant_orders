@@ -1,0 +1,8 @@
+-- Objective 1
+-- Explore the items table
+-- Your first objective is to better understand the items table by finding the number of rows in the table, the least and most expensive items, and the item prices within each category.
+-- Objective 2
+-- Explore the orders table
+-- Your second objective is to better understand the orders table by finding the date range, the number of items within each order, and the orders with the highest number of items.
+- Objective 3
+-- Analyze customer behavior
